@@ -1,0 +1,21 @@
+.wrapp{
+	width: 90%;
+}
+.flexbox{
+	display:flex;
+	margin-right: 10px;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	justify-content: center;
+}
+.box{
+	width: 250px;
+	height: 340px;
+	margin: 25px;
+	border: 2px solid green;
+
+}
+h3,h2{
+	text-align: center;
+}
